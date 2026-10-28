@@ -1,0 +1,20 @@
+{
+  "outline": "#121b29",
+  "coin": "#ffe15b",
+  "coinMark": "#9b591c",
+  "shine": "#fff8cb",
+  "tops": {
+    "village": "#e6ec9b",
+    "city": "#c7edff",
+    "forest": "#aef5ba",
+    "studio": "#f2d5ff",
+    "fort": "#edc8e3"
+  },
+  "sides": {
+    "village": "#635238",
+    "city": "#424f66",
+    "forest": "#345948",
+    "studio": "#59476c",
+    "fort": "#544258"
+  }
+}
